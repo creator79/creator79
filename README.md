@@ -26,9 +26,7 @@ Need help building your community or Web app? You can contact me on ! <a href="h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-![Snake animation](https://github.com/creator79/creator79/blob/output/github-user-contribution.svg)
-<img src="https://komarev.com/ghpvc/?username=creator79&color=brightgreen" alt="watching_count" />
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 
 
